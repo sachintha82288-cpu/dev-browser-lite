@@ -1,0 +1,5 @@
+*.jks
+*.keystore
+apk/
+unsigned*.apk
+aligned*.apk
